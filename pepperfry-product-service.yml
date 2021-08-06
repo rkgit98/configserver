@@ -8,4 +8,6 @@ spring:
     properties:
       hibernate :
         show_sql : true
-        
+project:
+  name: Pepperfry Product Service
+  version: 1.0.0-SNAPSHOT   
